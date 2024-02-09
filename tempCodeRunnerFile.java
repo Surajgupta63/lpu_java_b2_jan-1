@@ -1,3 +1,6 @@
-or(int i =0 ;i<n; i++){
-            System.out.print(arr[i] + " ");
-        }
+f(str1 == str2){
+        //     System.out.println("same");
+        // }
+        // else{
+        //     System.out.println("not same");
+        // }

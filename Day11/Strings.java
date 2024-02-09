@@ -1,7 +1,7 @@
 package Day11;
 public class Strings {
     public static void main(String[] args) {
-        // String is Immutable it oncd it is created it will not modified 
+        // String is Immutable once it is created it will not modified 
         // and all the method which is applied on it that return new String  
         // String name = "Suraj";
         // name = name.toLowerCase();
