@@ -1,3 +1,4 @@
+package Day25;
 
 interface Shape{
     int x = 10; // by Default public, static and final
